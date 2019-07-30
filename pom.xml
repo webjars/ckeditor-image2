@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ckeditor-image2</artifactId>
-    <version>4.11.2-SNAPSHOT</version>
+    <version>4.12.1-SNAPSHOT</version>
     <name>CKEditor - Enhanced Image</name>
     <description>WebJar for CKEditor - Enhanced Image</description>
     <url>http://webjars.org</url>
